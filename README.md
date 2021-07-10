@@ -1,3 +1,4 @@
+# Dibujando en Paint
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,16 +7,6 @@
     <meta charset="utf-8"> 
     <link rel="stylesheet" href="CSS\style.css">
     <style type="text/css">
-    body
-    {
-        background-color: white;
-        color:rgb(0, 0, 0);
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    }
-    strong
-    {
-        background-color: aquamarine;
-    }
     </style>
 </head>
 <body>
