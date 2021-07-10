@@ -1,19 +1,14 @@
-# Dibujando en Paint
-<!DOCTYPE html>
 <html>
 <head>
-    <title>MyFirstProyect</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8"> 
     <link rel="stylesheet" href="CSS\style.css">
-    <style type="text/css">
-    </style>
 </head>
 <body>
     <h1>Use your mouse and <strong>draw </strong></h1> 
     <input type="color" id="colorcito" oninput="MyColor(this.value);">
     <input type="range" id="gruesito" oninput="MyGrosor(this.value);" min="1" max="5" value="1">
-    <br><br>
+    <br/><br/>
     <canvas width="450" height="450" id="MiCuadradito"></canvas>
     <script src="Arch.js"></script> 
 </body>
